@@ -23,3 +23,4 @@ Click the "Delete" button to remove an item from the list.
 Click the "Clear List" button to remove all items from the list. A confirmation prompt will appear before clearing the list.
 ### Statistics: 
 The "Stats" section provides information about the number of packed and unpacked items.
+![bandicam 2023-08-28 11-35-38-719](https://github.com/Maria-rashid26/Travel-List/assets/130628510/9b79ae79-c103-4c72-895a-d22a980a2e87)
