@@ -1,4 +1,4 @@
-###Travellist App
+### Travellist App
 Travellist is a simple React application that helps you manage your packing list for travel. You can add items to your list, mark them as packed or unpacked, delete items, and even clear the entire list. This project is designed to make your travel preparations easier and more organized.
 
 ##Features
