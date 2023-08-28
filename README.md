@@ -26,4 +26,4 @@ The "Stats" section provides information about the number of packed and unpacked
 
 
 
-![bandicam 2023-08-28 11-35-38-719](https://github.com/Maria-rashid26/Travel-List/assets/130628510/9b79ae79-c103-4c72-895a-d22a980a2e87)
+![bandicam 2023-08-28 11-35-38-719](https://github.com/Maria-rashid26/Travel-List/assets/130628510/23b32bdc-aa22-498c-a8f8-a13a53234250)
